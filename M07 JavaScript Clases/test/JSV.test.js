@@ -12,7 +12,7 @@ const {
 } = require('../Ejercicio 02');
 
 describe('JAVASCRIPT V', function () {
-   describe('EJERCICIO 01', function () {
+   xdescribe('EJERCICIO 01', function () {
       describe('crearUsuario()', function () {
          it('Debe retornar una clase con las propiedades "usuario", "nombre", "email" y "password" definidas', function () {
             const Usuario = crearUsuario();

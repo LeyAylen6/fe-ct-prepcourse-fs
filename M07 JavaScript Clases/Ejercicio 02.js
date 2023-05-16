@@ -24,7 +24,6 @@ function agregarMetodo() {
    // Ejemplo: "Juan, 22 años".
    // Tu código:
 
-  
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
