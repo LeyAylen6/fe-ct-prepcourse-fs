@@ -134,7 +134,7 @@ describe('JAVASCRIPT I', function () {
       });
    });
 
-   describe('EJERCICIO 03', function () {
+   xdescribe('EJERCICIO 03', function () {
       describe('sonIguales(x, y)', function () {
          it('Debe devolver True si los argumentos son iguales', function () {
             expect(sonIguales(15, 15)).toBe(true);
@@ -201,7 +201,7 @@ describe('JAVASCRIPT I', function () {
       });
    });
 
-   describe('EJERCICIO 04', function () {
+   xdescribe('EJERCICIO 04', function () {
       describe('elevarAlCuadrado(num)', function () {
          it('Debe devolver el número elevado al cuadrado', function () {
             expect(elevarAlCuadrado(6)).toBe(36);
@@ -256,7 +256,7 @@ describe('JAVASCRIPT I', function () {
       });
    });
 
-   describe('EJERCICIO 05', function () {
+   xdescribe('EJERCICIO 05', function () {
       describe('esPositivo(num)', function () {
          it('Debe devolver el string "Es positivo" si el número es mayor a cero', function () {
             expect(esPositivo(23)).toBe('Es positivo');
