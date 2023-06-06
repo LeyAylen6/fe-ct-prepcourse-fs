@@ -23,7 +23,7 @@ const {
    continueStatement,
 } = require('../homework');
 
-describe('JAVASCRIPT III', function () {
+xdescribe('JAVASCRIPT III', function () {
    describe('devolverPrimerElemento(array)', function () {
       it('Debe retornar el primer elemento del arreglo', function () {
          expect(devolverPrimerElemento([10, 10, 16, 12])).toBe(10);

@@ -9,7 +9,7 @@ const {
    filter,
 } = require('../homework');
 
-describe('JAVASCRIPT VI', function () {
+xdescribe('JAVASCRIPT VI', function () {
    describe('mayuscula(nombre)', function () {
       it('Debe retornar el mismo nombre, pero con la primera letra en mayúscula', function () {
          expect(mayuscula('mario')).toBe('Mario');

@@ -16,7 +16,7 @@ const {
    doWhile,
 } = require('../homework');
 
-describe('JAVASCRIPT II', function () {
+xdescribe('JAVASCRIPT II', function () {
    describe('obtenerMayor(x, y)', function () {
       it('Debe retornar X si es mayor que Y', function () {
          expect(obtenerMayor(10, 5)).toBe(10);

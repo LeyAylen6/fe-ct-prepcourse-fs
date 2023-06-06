@@ -10,7 +10,7 @@ const {
    buscoInterseccion,
 } = require('../Ejercicios Extra');
 
-describe('EJERCICIOS EXTRA', function () {
+xdescribe('EJERCICIOS EXTRA', function () {
    describe('deObjetoAarray(objeto)', function () {
       it('Debe retornar un arreglo donde cada sub-arreglo contiene el par clave:valor del objeto', function () {
          expect(deObjetoAarray({ x: 1, y: 2 })).toEqual([

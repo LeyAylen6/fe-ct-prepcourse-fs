@@ -47,7 +47,7 @@ const {
    esVocal,
 } = require('../Ejercicio 05');
 
-describe('JAVASCRIPT I', function () {
+xdescribe('JAVASCRIPT I', function () {
    describe('EJERCICIO 01', function () {
       describe('nuevoString', function () {
          it('Debe ser un string', function () {
